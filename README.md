@@ -13,7 +13,8 @@ Click 'Activate' and wait for the process to complete. You will see a confirmati
 5) Restart Your Computer:
 Once activation is complete, restart your computer to apply the changes.
 
-Important Notes
+# Important Notes
 
 Legal Warning: Using activators to enable unauthorized copies of Windows is against Microsoft’s terms of service and can lead to legal consequences. 
+
 For issues or support, please raise an issue on this GitHub repository or contact the maintainer directly through GitHub.
